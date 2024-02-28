@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karls-lab
 - 👀 I’m interested in ... Learning about data science, website design, and microcontrollers
-- 🌱 I’m currently learning ... At USU in my Junior Year of pursuing a Computer Science Degree
+- 🌱 I’m currently about to graduate with a degree in Computer Science
 - 📫 How to reach me ... through me email: programmingnpc@gmail.com
 
 <!---
