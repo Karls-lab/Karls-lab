@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Karls-lab
-- 👀 I’m interested in ... Learning about data science, website design, and microcontrollers
-- 🌱 I’m currently about to graduate with a degree in Computer Science
-- 📫 How to reach me ... through me email: programmingnpc@gmail.com
+👋 Hi, I’m @Karls-lab
+🔍 I’m curious about... data science, web design, and microcontrollers
+📧 Reach me at: programmingnpc@gmail.com
+🚀 I've graduated and am actively seeking job opportunities!
 
 <!---
 Karls-lab/Karls-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
